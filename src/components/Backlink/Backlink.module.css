@@ -1,0 +1,16 @@
+.backlink {
+  display: inline-flex;
+  align-items: center;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  gap: 8px;
+
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.backlink:hover {
+  color: rgb(149, 0, 255);
+}

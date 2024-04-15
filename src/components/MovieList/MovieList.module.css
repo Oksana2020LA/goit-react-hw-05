@@ -1,0 +1,13 @@
+.list {
+  list-style: none;
+}
+
+.link {
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
