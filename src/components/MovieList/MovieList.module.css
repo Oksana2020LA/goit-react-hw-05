@@ -1,5 +1,8 @@
 .list {
   list-style: none;
+    background-image: linear-gradient(rgba(234, 234, 236, 0.926), rgba(231, 231, 236, 0.7)), url(../Images/photo-film.jpg);
+    background-size: cover;
+    width: 100%;
 }
 
 .link {

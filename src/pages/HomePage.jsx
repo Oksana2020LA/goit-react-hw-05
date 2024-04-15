@@ -23,7 +23,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1 style={{ padding: "10px", color: "green" }}>Trending today</h1>
+      <h1 style={{ padding: "10px", color: "purple" }}>Trending today</h1>
       {error && <ErrorMessage />}
       {movies.length > 0 && <MovieList movies={movies} />}
     </div>
